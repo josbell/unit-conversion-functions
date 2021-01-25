@@ -1,6 +1,6 @@
 # UnitConversionFunctions
 
-Functions supporting the [unit-conversion](https://github.com/josbell/unit-conversion)
+Functions supporting the [unit-conversion](https://github.com/josbell/unit-conversion) app.
 
 ## Introduction
 
